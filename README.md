@@ -1,6 +1,6 @@
-# Aprender
+# Sitios para aprender a desarrollar sitios web y/o aplicaciones en Español
 
-Sitios para aprender en Español.
+## Gratuitos
 
 - [Cristalab](http://www.cristalab.com)
 - [Maestros de Web](http://www.maestrosdelweb.com)
@@ -8,5 +8,12 @@ Sitios para aprender en Español.
 - [DevAcademy LA](https://devacademy.la)
 - [HTML Facil](http://html5facil.com)
 - [Dev Code](https://devcode.la)
- 
+
+## Premium
+
+- [Platzi](https://platzi.com/) 
+- [Oja.la](https://oja.la/)
+- [Udemy](https://www.udemy.com/courses/)
+- [Videos2Brain](https://www.video2brain.com/mx/)
+
 
