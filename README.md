@@ -8,6 +8,7 @@
 - [DevAcademy LA](https://devacademy.la)
 - [HTML Facil](http://html5facil.com)
 - [Dev Code](https://devcode.la)
+- [Desarrollando LatAm](http://www.desarrollandolatam.com)
 
 ## Premium
 
@@ -16,4 +17,7 @@
 - [Udemy](https://www.udemy.com/courses/)
 - [Videos2Brain](https://www.video2brain.com/mx/)
 
+## Bootcamps
+
+- [DesafioLatam](http://desafiolatam.com) 
 
