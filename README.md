@@ -20,5 +20,4 @@
 ## Bootcamps
 
 - [DesafioLatam](http://desafiolatam.com) 
-- [DesafioLatam](http://desafiolatam.com) 
 
